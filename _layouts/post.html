@@ -46,7 +46,7 @@ layout: default
 
   <div class="related">
     <h2>{{ site.data.settings.related_posts }}</h2>
-    {% assign listed_posts_urls = page.url | split: ' ' %}
+    {% assign listed_posts_urls = site.url | split: ' ' %}
     <ul class="related-posts">
       {% for tag in page.tags %}
         {% for mypost in site.tags[tag] limit:2 %}
