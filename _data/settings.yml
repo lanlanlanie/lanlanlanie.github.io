@@ -6,10 +6,14 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
-- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'APP', folder: 'pages', file: 'documentation.html'}
+- {name: 'Web', folder: 'pages', file: 'documentation.html'}
+- {name: 'Logo', folder: 'pages', file: 'documentation.html'}
+- {name: 'Painting', folder: 'pages', file: 'documentation.html'}
+# - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
+# - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+# - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+# - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
