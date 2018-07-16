@@ -1,7 +1,5 @@
 _site
-node_modules
-npm-debug.log
+Gemfile.lock
+.sass-cache
+.jekyll-metadata
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
