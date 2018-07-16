@@ -6,17 +6,17 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'APP', folder: 'pages', file: 'APP.html'}
-- {name: 'Web', folder: 'pages', file: 'Web.html'}
-- {name: 'Icon', folder: 'pages', file: 'Icon.html'}
-- {name: 'Logo', folder: 'pages', file: 'Logo.html'}
-- {name: 'Painting', folder: 'pages', file: 'Painting.html'}
+- {name: 'APP', folder: 'pages', file: 'app.html'}
+- {name: 'Web', folder: 'pages', file: 'web.html'}
+- {name: 'Icon', folder: 'pages', file: 'icon.html'}
+- {name: 'Logo', folder: 'pages', file: 'logo.html'}
+- {name: 'Painting', folder: 'pages', file: 'painting.html'}
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
 # - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
-- {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+# - {name: 'About', folder: 'pages', file: 'about.html'}
+# - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 # social:
@@ -29,11 +29,11 @@ menu:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '下一页'
+  previous_page: '上一页'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '免费分享'
 
-related_posts: 'You may also enjoy...'
+related_posts: '你还可以看以下同类型的设计...'
 
-post_date_prefix: 'Written on'
+post_date_prefix: '作者：'
