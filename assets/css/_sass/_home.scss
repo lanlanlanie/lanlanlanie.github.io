@@ -7,13 +7,11 @@
   background-size: cover;
   position: relative;
 }
-.featured-home {
-  weight:100%;
-  margin: 5px 10px 10px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+.featured-img {
+  padding-top: $header-thickness+10px;
+  margin: auto;
+  display: block;
+  width: $header-10px;
 }
 .featured-posts h2 {
   bottom: 0;
