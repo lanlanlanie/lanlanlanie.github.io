@@ -110,12 +110,12 @@
   column-gap: 0;
   counter-reset: item-counter;
 
-  @media (min-width: 400px) {
+  @media (max-width: 1100px) {
     column-count: 2;
   }
 }
 
-@media (min-width: 400px) {
+@media (max-width: 1100px) {
 
 .item {
   box-sizing: border-box;
